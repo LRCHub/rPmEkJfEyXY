@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HIMEHINA『？？？』Cover",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-07T13:21:12.112338Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIMEHINA『琥珀の身体』",
+      "artist": "HIMEHINA Channel",
+      "has_synced": false,
+      "path": "select/pl_01_HIMEHINA『琥珀の身体』_HIMEHINA_Channel.txt"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "HIMEHINA『？？？』Cover",
+  "base_track": "HIMEHINA『モニタリング』Cover",
   "base_artist": "HIMEHINA",
-  "createdAt": "2026-02-07T13:21:12.112338Z",
+  "createdAt": "2026-04-02T11:53:22.714231Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "HIMEHINA Channel",
       "has_synced": false,
       "path": "select/pl_01_HIMEHINA『琥珀の身体』_HIMEHINA_Channel.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "HIMEHINA『モニタリング』Cover",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_01_HIMEHINA『モニタリング』Cover_HIMEHINA.txt",
+      "repo_name": "rPmEkJfEyXY"
     }
   ]
 }
